@@ -6,7 +6,7 @@
 Summary:	Variable support VMOD
 Name:		varnish-libvmod-%{vmod}
 Version:	0.1
-Release:	0.1
+Release:	1
 License:	BSD
 Group:		Daemons
 Source0:	https://github.com/varnish/libvmod-var/archive/3.0/%{vmod}-%{version}.tar.gz
